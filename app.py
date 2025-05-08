@@ -357,7 +357,8 @@ print(f" Dashboard is running locally at: http://127.0.0.1:5555")
 # Run the app
 # Run
 if __name__ == '__main__':
-    app.run_server(debug=True, port=5555)
+    app.run()
+
 
 
 # In[ ]:
