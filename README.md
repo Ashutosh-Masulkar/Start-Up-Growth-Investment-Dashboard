@@ -1,6 +1,9 @@
 # Data-Driven Investment Dashboard: Optimized Startup Growth
 
 Interactive BI dashboard analyzing $12.3T in global funding across 500+ global startups.
+## 🌐 Live Demo
+🔗 [Click here to view the live dashboard](https://start-up-growth-investment-dashboard.onrender.com)
+
 
 ## Business Impact
 - **60% faster** analysis speed for portfolio decisions
@@ -22,8 +25,6 @@ Interactive BI dashboard analyzing $12.3T in global funding across 500+ global s
 - Portfolio comparison tools
 
 
-## 🌐 Live Demo
-🔗 [Click here to view the live dashboard](https://start-up-growth-investment-dashboard.onrender.com)
 
 
 
